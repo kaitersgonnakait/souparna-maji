@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Souparna Maji
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Souparna
+last_name: Maji
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,81 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Geneva
+    url: https://www.unige.ch/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Souparna.Maji@unige.ch'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/s-maji94
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/souparna-maji-0978682aa/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=FwjlacgAAAAJ
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Microeconomics
+  - Development Economics
+  - International Trade
+  - Political Economy
+  - Industrial Organization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Economics
+    institution: University of Geneva
+    date_start: 2019-09-01
+    date_end: 2024-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: _Essays in Development Economics_. Supervised by [Prof Giacomo de Giorgi](https://example.com) and [Prof Jérémy Laurent‑Lucchetti](https://example.com).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Swiss Program for Beginning Doctoral Students in Economics
+    institution: Study Center Gerzensee, Swiss National Bank
+    date_start: 2019-09-01
+    date_end: 2020-08-01
+  - area: MA Economics
+    institution: Jadavpur University
+    date_start: 2015-07-01
+    date_end: 2017-06-01
     summary: |
-      GPA: 3.8/4.0
+      CGPA: 9.94/10
+  - area: BA Economics
+    institution: Jadavpur University
+    date_start: 2011-07-01
+    date_end: 2014-06-01
+    summary: |
+      CGPA: 9.79/10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+technical_skills:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Google BigQuery
+  - Power BI
+
+core_competencies:
+  - applied economics
+  - international trade
+  - industrial organization
+  - development economics
+  - quantitative social science
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +195,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data-driven economist with over eight years of experience in applied research, currently working at the University of Geneva. My work focuses on applied economics, with a particular interest in international trade, industrial organization, development economics, and quantitative social science. I am well-equipped to address complex policy and business challenges and deliver actionable insights by employing advanced causal inference methods and mixed-methods research on large datasets.
+
+With a strong background in statistics and econometrics, I am proficient in Python, R, Stata, SQL, Google BigQuery, and Power BI. I am also expanding my expertise in natural language processing, predictive modeling, and causal inference in machine learning. My passion for data science further complements my skills, ensuring I remain at the cutting edge of business analytics and policy evaluation.
+
+Beyond my professional work, I volunteer as an advisor for a nonprofit dedicated to improving the lives of marginalized children in West Bengal. Outside of work, I stay informed about current geopolitical developments and am passionate about sports, travel, and experimenting in the kitchen with global flavors.
+
+I am currently seeking opportunities as an applied economist, research analyst/economist, data scientist, data analyst, or policy analyst—roles where I can merge my technical skills with strategic insight to enable impactful, evidence-based decision-making that produces tangible outcomes.

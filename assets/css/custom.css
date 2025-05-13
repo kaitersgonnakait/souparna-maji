@@ -1,0 +1,31 @@
+/* HEADER */
+
+.nav-link {
+    padding: 12px 0px;
+}
+
+/* FOOTER */
+
+.page-footer {
+    border-top: 1px solid rgb(189, 193, 196);
+    background-color: rgb(242, 243, 243);
+    margin-top: 40px;
+}
+
+.page-footer > .text-slate-700 {
+    color: #9ba1a6;
+}
+
+.page-footer > .mt-24 {
+    margin-top: 3em;
+}
+
+.page-footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.page-footer a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
