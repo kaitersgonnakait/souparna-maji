@@ -18,6 +18,14 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
+## CACHE (NEEDED FOR GH PAGES)
+############################
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+############################
 ## ADVANCED
 ############################
 
