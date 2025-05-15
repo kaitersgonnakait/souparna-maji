@@ -1,7 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
-type: landing
+type: landing_bio_sidebar
 
 design:
   spacing: '5rem'
@@ -18,6 +17,8 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: resume-skills
     content:
       title: Skills & Hobbies

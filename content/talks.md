@@ -1,6 +1,6 @@
 ---
 title: 'Talks'
-type: landing
+type: landing_bio_sidebar
 
 # Page sections
 sections:
@@ -8,5 +8,5 @@ sections:
     content:
       title: Talks
       subtitle: My Talks
-      text: 
+      text: "TODO: add text here"
 ---

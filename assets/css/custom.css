@@ -4,6 +4,44 @@
     padding: 12px 0px;
 }
 
+/* SIDEBAR */
+.sidebar-icons {
+    display: inline-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-icons > li {
+    margin-right: 10px;
+}
+
+/* CONTENT */
+
+.organization-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.organization-grid-cell {
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.organization-grid-cell:first-child {
+    border-right: thin solid #ccc;
+}
+
+
 /* FOOTER */
 
 .page-footer {

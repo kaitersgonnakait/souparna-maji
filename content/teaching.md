@@ -1,6 +1,6 @@
 ---
 title: 'Teaching'
-type: landing
+type: landing_bio_sidebar
 
 # Page sections
 sections:

@@ -1,6 +1,6 @@
 ---
 title: 'Service'
-type: landing
+type: landing_bio_sidebar
 
 # Page sections
 sections:

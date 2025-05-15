@@ -1,7 +1,7 @@
 ---
 title: 'Research'
 date: 2025-05-13
-type: landing
+type: landing_bio_sidebar
 
 design:
   # Section spacing
@@ -13,5 +13,5 @@ sections:
     content:
       title: Research
       subtitle: My Research
-      text: 
+      text: "TODO: add the text here"
 ---

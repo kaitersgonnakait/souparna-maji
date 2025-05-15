@@ -1,6 +1,6 @@
 ---
 title: 'Awards & Grants'
-type: landing
+type: landing_bio_sidebar
 
 # Page sections
 sections:
@@ -8,6 +8,6 @@ sections:
     content:
       title: Awards & Grants
       subtitle: Awards & Grants
-      text: 
+      text: "TODO: add text here"
 ---
 

@@ -25,7 +25,11 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Geneva
+    role: Postdoctoral Researcher
     url: https://www.unige.ch/en/
+  - name: World Trade Organization
+    role: Consultant
+    url: https://www.wto.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -89,24 +93,29 @@ technical_skills:
   - Power BI
 
 core_competencies:
-  - applied economics
-  - international trade
-  - industrial organization
-  - development economics
-  - quantitative social science
+  - Industry Analysis & Market Research
+  - Econometric Modeling & Forecasting
+  - Sustainability Strategy & Impact Analysis
+  - Data Analytics (Structured & Unstructured Data)
+  - Trade Policy & Industrial Strategy
+  - Data-driven Business Intelligence
+  - Macro Trends & Risk Monitoring
+
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: "Postdoctoral Researcher (Field: International Trade)"
+    company_name: University of Geneva (Funded by Swiss National Science Foundation)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Project ‑ Global and Regional Externalities in Trade Agreements:
+      - Evaluate how trade agreements impact multinational production choices using econometric models in Stata & R.
+      - Analyze welfare effects of deep integration in the presence of externalities (e.g., car emissions) of regulatory policies.
+
+      Project ‑ Global and Regional Externalities in Trade Agreements:
+      - Design baseline calibrations and policy‑shock simulations adapting CES and non‑CES demand models in Python.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -156,10 +165,12 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
+  - name: Bengali (Native)
+    percent: 100
+  - name: French
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.

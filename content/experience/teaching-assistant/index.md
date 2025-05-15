@@ -8,5 +8,5 @@ sections:
     content:
       title: CV
       subtitle: CV
-      text: "TODO: add content here"
+      text: 
 ---

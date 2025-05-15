@@ -9,4 +9,6 @@ view: citation
 banner:
   caption: ''
   image: ''
+sidebar:
+  open: true
 ---
