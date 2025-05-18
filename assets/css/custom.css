@@ -27,6 +27,22 @@
 
 /* CONTENT */
 
+html, .prose {
+    font-size: 12pt !important;
+}
+
+h1 {
+    font-size: 18pt !important;
+}
+
+h2 {
+    font-size: 16pt !important;
+}
+
+h3 {
+    font-size: 14pt !important;
+}
+
 .organization-grid {
     display: grid;
     grid-template-columns: auto auto auto;
