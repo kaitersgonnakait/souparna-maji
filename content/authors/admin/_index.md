@@ -110,12 +110,12 @@ work:
     date_start: 2024-09-01
     date_end: ''
     summary: |-
-      Project ‑ Global and Regional Externalities in Trade Agreements:
-      - Evaluate how trade agreements impact multinational production choices using econometric models in Stata & R.
-      - Analyze welfare effects of deep integration in the presence of externalities (e.g., car emissions) of regulatory policies.
-
-      Project ‑ Global and Regional Externalities in Trade Agreements:
-      - Design baseline calibrations and policy‑shock simulations adapting CES and non‑CES demand models in Python.
+      - Analyze the impact of trade agreements on multinational production decisions and firm behavior using econometric models in Stata and R based on data for 4,791 car models across 138 brands from 2000 to 2016.
+      - Simulate welfare and market outcomes under counterfactual policy shocks under varied demand scenarios.
+      - Assess the sustainability and competitiveness of deep integration under cross-border regulatory harmonization.
+    button:
+      text: 'Read More'
+      url: '/experience/postdoctoral-researcher'
   - position: Adjunct Lecturer
     company_name: Geneva School of Economics and Management, University of Geneva
     company_url: ''
@@ -123,8 +123,10 @@ work:
     date_start: 2024-09-01
     date_end: 2025-02-01
     summary: |-
-      Course: International Trade (Bachelor of Science Program in Economics and Management).  
-      Taught trade theories and their empirical applications to a cohort of 97 students, emphasizing real‑world aspects.
+      - Instructed and mentored a cohort of 97 economics and management students, fostering critical thinking on global trade dynamics and their intersection with economic policy.
+    button:
+      text: 'Read More'
+      url: '/experience/adjunct-lecturer'
   - position: Research Assistant
     company_name: University of Geneva (Funded by Swiss National Science Foundation)
     company_url: ''
@@ -132,9 +134,11 @@ work:
     date_start: 2024-08-01
     date_end: 2023-08-01
     summary: |-
-      Conducted a literature review on pass‑through estimates and explored structural modeling for welfare analysis.  
-      Assistant to Prof. M. Mrázová for the publication of the paper ”Trade Agreements when profits matter”:
-      - Analyzed and synthesized mathematical models using Mathematica and Python to ensure research accuracy.  
+      - Reviewed 88 studies for meta-analysis of price pass-through by firms under trade policy and exchange rate shocks.
+      - Validated economic models (Mathematica, Python) for the paper [Trade Agreements When Profits Matter](https://www.sciencedirect.com/science/article/pii/S002219962400093X).
+    button:
+      text: 'Read More'
+      url: '/experience/research-assistant'
   - position: Teaching Assistant
     company_name: Geneva School of Economics and Management, University of Geneva
     company_url: ''
@@ -142,8 +146,11 @@ work:
     date_start: 2024-08-01
     date_end: 2020-09-01
     summary: |-
-      Courses: Applied Economics Workshop & Microeconomics (Master), Applied Econometrics (Bachelor).  
-      Collaborated to prepare study materials and delivered over 120 seminars to a diverse cohort of students.
+      - Delivered over 120 classes and collaborated on preparing study materials for Applied Economics, Microeconomics, and
+        Applied Econometrics, enhancing students' theoretical knowledge and practical analytical skills for empirical research.
+    button:
+      text: 'Read More'
+      url: '/experience/teaching-assistant'
   - position: Project Consultant
     company_name: Government of West Bengal (Co‑funded by UN Development Program)
     company_url: ''
@@ -151,22 +158,26 @@ work:
     date_start: 2019-07-01
     date_end: 2018-06-01
     summary: |-
-      Project ‑ Preparation of the District Human Development Report for Purba Medinipur, West Bengal:
-      - Collaborated with stakeholders to collect and analyze data; authored Education, Health, and Industry chapters.
-      - Identified gender gap in education and female labor force participation stagnation, prompting targeted policies.
+      - Worked collaboratively with stakeholders to collect and analyze data for the District Human Development Report,
+        authoring key chapters on Education, Health, and Industry, influencing local development strategies.
+      - Identified gender gaps in education and labor force participation and recommended evidence-based policies.
+    button:
+      text: 'Read More'
+      url: '/experience/west-bengal-project-consultant'
   - position: Academic Instructor and Data Analyst
     company_name: Freelance
     company_url: ''
     company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
+    date_start: 2017-07-01
+    date_end: 2019-06-01
     summary: |-
-      Academic Instructor:
-      - Established a tutoring center serving around 60 Bachelor’s and 20 Master’s students.
-      - Taught economics, international trade, econometrics, and statistics courses with hands‑on applications in Stata.
-
-      Data Analyst:
-      - Performed market research and data analysis for business clients using SQL and R, providing actionable insights.
+      - **Instructor:** Established a tutoring center, delivering courses on economics, international trade, econometrics, and
+        financial economics to around 80 students, emphasizing applications in Stata for business and policy analysis.
+      - **Data Analyst:** Conducted extensive market research and industry analysis using SQL and R and designed
+        dashboards for business clients, delivering actionable insights that informed strategic, data-driven decision-making.
+    button:
+      text: 'Read More'
+      url: '/experience/freelance'
   - position: Survey Analysis Intern (Part‑Time)
     company_name: Delhi School of Economics
     company_url: ''
@@ -174,19 +185,24 @@ work:
     date_start: 2017-02-01
     date_end: 2016-06-01
     summary: |-
-      Project ‑ Food Security in India after the Implementation of the National Food Security Act:
-      - Field Experience: Led 3 survey teams across 9 districts in 2 Indian states, coordinating data collection and analysis.
-      - Collected, processed, and analyzed data in Excel & Stata; prepared reports to suggest policies to state governments.
-      - Identified nutritional gaps affecting ∼ 20 million beneficiaries and proposed targeted policy reforms.
+      - Led 3 survey teams across 9 districts in 2 Indian states, managing data collection and analysis in Excel and Stata for
+        a study on Food Security in rural India after the implementation of the National Food Security Act, 2013.
+      - Identified nutritional gaps affecting around 20 million beneficiaries and proposed food security policy reforms.
+    button:
+      text: 'Read More'
+      url: '/experience/survey-analysis-intern'
   - position: Project Assistant
     company_name: Indian Institute of Technology, Delhi
     company_url: ''
     company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
+    date_start: 2016-10-01
+    date_end: 2016-12-01
     summary: |-
-      Project ‑ Impact of Demonetization on the Unorganized Economic Sector of the Indian Economy:
-      - Created a novel dataset from newspaper articles and drafted a report on the effects on the unorganized sector.
+      - Constructed a dataset from 492 news articles to analyze the impact of demonetization on Indias unorganized
+        sector; found 30%–40% job losses across age groups within the first 50 days of the policy implementation.
+    button:
+      text: 'Read More'
+      url: '/experience/project-assistant'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -204,7 +220,7 @@ skills:
       - name: Stata
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: chart-line
       - name: SQL
         description: ''
         percent: 40
@@ -212,7 +228,7 @@ skills:
       - name: Google BigQuery
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: magnifying-glass
       - name: Power BI
         description: ''
         percent: 100
@@ -222,18 +238,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Follow global geopolitical developments
+        description: ''
+        icon: globe-simple
+      - name: Sports
+        description: ''
+        icon: basketball
       - name: Travel
         description: ''
         percent: 100
-        icon: suitcase
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-      - name: Hiking
+        icon: airplane-takeoff
+      - name: Culinary Exploration
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: cooking-pot
 
 
 languages:

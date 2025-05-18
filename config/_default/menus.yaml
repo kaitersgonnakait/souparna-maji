@@ -31,12 +31,12 @@ main:
   - name: CV
     url: cv/
     weight: 90
-  - name: Hobbies
-    url: hobbies/
-    weight: 100
-  - name: Media
-    url: media/
-    weight: 110
+  #- name: Hobbies
+  #  url: hobbies/
+  #  weight: 100
+  #- name: Media
+  #  url: media/
+  #  weight: 110
 
 sidebar:
   - identifier: more
