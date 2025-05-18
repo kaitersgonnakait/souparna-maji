@@ -115,7 +115,7 @@ work:
       - Assess the sustainability and competitiveness of deep integration under cross-border regulatory harmonization.
     button:
       text: 'Read More'
-      url: '/experience/postdoctoral-researcher'
+      url: 'experience/postdoctoral-researcher'
   - position: Adjunct Lecturer
     company_name: Geneva School of Economics and Management, University of Geneva
     company_url: ''
@@ -126,7 +126,7 @@ work:
       - Instructed and mentored a cohort of 97 economics and management students, fostering critical thinking on global trade dynamics and their intersection with economic policy.
     button:
       text: 'Read More'
-      url: '/experience/adjunct-lecturer'
+      url: 'experience/adjunct-lecturer'
   - position: Research Assistant
     company_name: University of Geneva (Funded by Swiss National Science Foundation)
     company_url: ''
@@ -138,7 +138,7 @@ work:
       - Validated economic models (Mathematica, Python) for the paper [Trade Agreements When Profits Matter](https://www.sciencedirect.com/science/article/pii/S002219962400093X).
     button:
       text: 'Read More'
-      url: '/experience/research-assistant'
+      url: 'experience/research-assistant'
   - position: Teaching Assistant
     company_name: Geneva School of Economics and Management, University of Geneva
     company_url: ''
@@ -150,7 +150,7 @@ work:
         Applied Econometrics, enhancing students' theoretical knowledge and practical analytical skills for empirical research.
     button:
       text: 'Read More'
-      url: '/experience/teaching-assistant'
+      url: 'experience/teaching-assistant'
   - position: Project Consultant
     company_name: Government of West Bengal (Co‑funded by UN Development Program)
     company_url: ''
@@ -163,7 +163,7 @@ work:
       - Identified gender gaps in education and labor force participation and recommended evidence-based policies.
     button:
       text: 'Read More'
-      url: '/experience/west-bengal-project-consultant'
+      url: 'experience/west-bengal-project-consultant'
   - position: Academic Instructor and Data Analyst
     company_name: Freelance
     company_url: ''
@@ -177,7 +177,7 @@ work:
         dashboards for business clients, delivering actionable insights that informed strategic, data-driven decision-making.
     button:
       text: 'Read More'
-      url: '/experience/freelance'
+      url: 'experience/freelance'
   - position: Survey Analysis Intern (Part‑Time)
     company_name: Delhi School of Economics
     company_url: ''
@@ -190,7 +190,7 @@ work:
       - Identified nutritional gaps affecting around 20 million beneficiaries and proposed food security policy reforms.
     button:
       text: 'Read More'
-      url: '/experience/survey-analysis-intern'
+      url: 'experience/survey-analysis-intern'
   - position: Project Assistant
     company_name: Indian Institute of Technology, Delhi
     company_url: ''
@@ -202,7 +202,7 @@ work:
         sector; found 30%–40% job losses across age groups within the first 50 days of the policy implementation.
     button:
       text: 'Read More'
-      url: '/experience/project-assistant'
+      url: 'experience/project-assistant'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
