@@ -34,5 +34,5 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: 'Placeholder for content.'
+      text: '* May 1, 2025: Joined WTO Economic Research and Statistics Division'
 ---

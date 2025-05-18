@@ -63,10 +63,10 @@ education:
     date_start: 2019-09-01
     date_end: 2024-08-01
     summary: |
-      Thesis: _Essays in Development Economics_. Supervised by [Prof Giacomo de Giorgi](https://example.com) and [Prof Jérémy Laurent‑Lucchetti](https://example.com).
+      Thesis: _Essays in Development Economics_. Supervised by [Prof Giacomo de Giorgi](https://sites.google.com/site/giacomodegiorgi/) and [Prof Jérémy Laurent‑Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://archive-ouverte.unige.ch/unige:179334'
   - area: Swiss Program for Beginning Doctoral Students in Economics
     institution: Study Center Gerzensee, Swiss National Bank
     date_start: 2019-09-01
@@ -109,24 +109,84 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: |2-
+    summary: |-
       Project ‑ Global and Regional Externalities in Trade Agreements:
       - Evaluate how trade agreements impact multinational production choices using econometric models in Stata & R.
       - Analyze welfare effects of deep integration in the presence of externalities (e.g., car emissions) of regulatory policies.
 
       Project ‑ Global and Regional Externalities in Trade Agreements:
       - Design baseline calibrations and policy‑shock simulations adapting CES and non‑CES demand models in Python.
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Adjunct Lecturer
+    company_name: Geneva School of Economics and Management, University of Geneva
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-09-01
+    date_end: 2025-02-01
+    summary: |-
+      Course: International Trade (Bachelor of Science Program in Economics and Management).  
+      Taught trade theories and their empirical applications to a cohort of 97 students, emphasizing real‑world aspects.
+  - position: Research Assistant
+    company_name: University of Geneva (Funded by Swiss National Science Foundation)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: 2023-08-01
+    summary: |-
+      Conducted a literature review on pass‑through estimates and explored structural modeling for welfare analysis.  
+      Assistant to Prof. M. Mrázová for the publication of the paper ”Trade Agreements when profits matter”:
+      - Analyzed and synthesized mathematical models using Mathematica and Python to ensure research accuracy.  
+  - position: Teaching Assistant
+    company_name: Geneva School of Economics and Management, University of Geneva
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: 2020-09-01
+    summary: |-
+      Courses: Applied Economics Workshop & Microeconomics (Master), Applied Econometrics (Bachelor).  
+      Collaborated to prepare study materials and delivered over 120 seminars to a diverse cohort of students.
+  - position: Project Consultant
+    company_name: Government of West Bengal (Co‑funded by UN Development Program)
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-07-01
+    date_end: 2018-06-01
+    summary: |-
+      Project ‑ Preparation of the District Human Development Report for Purba Medinipur, West Bengal:
+      - Collaborated with stakeholders to collect and analyze data; authored Education, Health, and Industry chapters.
+      - Identified gender gap in education and female labor force participation stagnation, prompting targeted policies.
+  - position: Academic Instructor and Data Analyst
+    company_name: Freelance
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |-
+      Academic Instructor:
+      - Established a tutoring center serving around 60 Bachelor’s and 20 Master’s students.
+      - Taught economics, international trade, econometrics, and statistics courses with hands‑on applications in Stata.
+
+      Data Analyst:
+      - Performed market research and data analysis for business clients using SQL and R, providing actionable insights.
+  - position: Survey Analysis Intern (Part‑Time)
+    company_name: Delhi School of Economics
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-02-01
+    date_end: 2016-06-01
+    summary: |-
+      Project ‑ Food Security in India after the Implementation of the National Food Security Act:
+      - Field Experience: Led 3 survey teams across 9 districts in 2 Indian states, coordinating data collection and analysis.
+      - Collected, processed, and analyzed data in Excel & Stata; prepared reports to suggest policies to state governments.
+      - Identified nutritional gaps affecting ∼ 20 million beneficiaries and proposed targeted policy reforms.
+  - position: Project Assistant
+    company_name: Indian Institute of Technology, Delhi
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |-
+      Project ‑ Impact of Demonetization on the Unorganized Economic Sector of the Indian Economy:
+      - Created a novel dataset from newspaper articles and drafted a report on the effects on the unorganized sector.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,31 +196,45 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: python
+      - name: R
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: code-bracket
+      - name: Stata
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Google BigQuery
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Power BI
+        description: ''
+        percent: 100
+        icon: chart-bar
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Travel
         description: ''
         percent: 100
-        icon: cat
+        icon: suitcase
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+
 
 languages:
   - name: English
