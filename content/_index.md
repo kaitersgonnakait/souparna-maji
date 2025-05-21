@@ -34,5 +34,5 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: '* May 1, 2025: Joined WTO Economic Research and Statistics Division'
+      text: '* April 2024: Joined WTO Economic Research and Statistics Division'
 ---

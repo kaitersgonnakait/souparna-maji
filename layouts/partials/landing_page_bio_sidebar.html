@@ -1,6 +1,5 @@
 <div class="mx-auto flex max-w-screen-xl">
     {{ partial "components/bio_sidebar.html" (dict "context" . "no_sidebar" false) }}
-    {{ partial "components/toc.html" . }}
     <article class="flex w-full min-w-0 min-h-[calc(100vh-var(--navbar-height))] justify-center break-words pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
         {{ if .Params.HeroImg }}
         <div class="single_hero_background" style="background-image:url( {{ .Site.BaseURL }}{{.Params.HeroImg}} )">

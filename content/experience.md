@@ -1,6 +1,7 @@
 ---
 title: 'Experience'
 type: landing_bio_sidebar
+toc: false
 
 design:
   spacing: '5rem'
