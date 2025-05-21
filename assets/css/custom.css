@@ -57,6 +57,21 @@ h3 {
     border-right: thin solid #ccc;
 }
 
+.single_hero_background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: calc(100% + 40px);
+    z-index: -10;
+    margin-left: -20px;
+    height: 800px;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    border-image: fill 0
+      linear-gradient(#fff9,#ffffff);
+}
 
 /* FOOTER */
 

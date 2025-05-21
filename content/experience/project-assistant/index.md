@@ -2,6 +2,9 @@
 title: "Project Assistant"
 type: landing_bio_sidebar
 
+params:
+  HeroImg: "img/indian_institute_of_technology.jpeg"
+
 design:
   # Section spacing
   spacing: '0rem'

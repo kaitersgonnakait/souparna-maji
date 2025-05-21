@@ -1,6 +1,8 @@
 ---
 title: "Postdoctoral Researcher (Field: International Trade)"
 type: landing_bio_sidebar
+params:
+  HeroImg: "img/geneva_hero.jpg"
 
 design:
   # Section spacing

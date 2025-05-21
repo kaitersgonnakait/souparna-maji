@@ -2,6 +2,9 @@
 title: "Academic Instructor and Data Analyst"
 type: landing_bio_sidebar
 
+params:
+  HeroImg: "img/data_analyst_freelancer.png"
+
 design:
   # Section spacing
   spacing: '0rem'

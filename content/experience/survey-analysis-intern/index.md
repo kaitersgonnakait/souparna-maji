@@ -2,6 +2,9 @@
 title: "Survey Analysis Intern (Part‑Time)"
 type: landing_bio_sidebar
 
+params:
+  HeroImg: "img/delhi_school_economics.jpeg"
+
 design:
   # Section spacing
   spacing: '0rem'

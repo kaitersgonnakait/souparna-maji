@@ -2,6 +2,9 @@
 title: "Project Consultant"
 type: landing_bio_sidebar
 
+params:
+  HeroImg: "img/west_bengal.webp"
+
 design:
   # Section spacing
   spacing: '0rem'
