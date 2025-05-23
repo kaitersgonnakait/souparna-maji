@@ -32,6 +32,10 @@ html, .prose {
     font-size: 12pt !important;
 }
 
+.wide-content-prose {
+    max-width: 100ch;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300 !important;
 }
@@ -76,6 +80,16 @@ h3 {
     position: fixed;
     border-image: fill 0
       linear-gradient(#fff9,#ffffff);
+}
+
+.img-thumbnail {
+    float:left;
+    margin: 0 5px 0 0;
+    clear: both;
+}
+
+.prose > h2 {
+    clear: both;
 }
 
 /* FOOTER */

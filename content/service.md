@@ -8,21 +8,62 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
+  - block: service-entry
     content:
-      text: |-
-        * **External Advisor, Aalok Foundation (Non‑Profit)**
-          West Bengal, India - 2023-Present
-        * **Co‑supervisor and External Jury Member for the Master’s Theses of Two Students**
-          2022-2023
-        * **Co‑organizer**
-          Rare Voices in Economics Annual Conference, 2nd Edition, University of Geneva - 2022
-        * **Member of Research Cluster and Workshop Team**
-          Rare Voices in Economics - 2021-2024
-        * **Mentor**
-          Mentoring Program, University of Geneva - 2020-2022
-        * **Co-convenor**
-          Young Economist Students Meet, Jadavpur University - 2014
-        * **Student and Class Representative**
-          Department of Economics, Jadavpur University - 2011-2014
+      time: "Current"
+      img: 
+        filename: service/aalok.png
+      who_we_are: |-
+        Aalok Foundation, a registered organisation, is dedicated to uplifting underprivileged communities, particularly focusing on children, women, and families residing in marginalized and underserved areas, especially Kolkata’s slum and overbridges.
+      my_role: |-
+        External Advisor (2023-Present)
+  - block: service-entry
+    content:
+      time: "Past"
+      img:
+        filename: service/university-of-geneva-logo.svg
+      who_we_are: |-
+        University of Geneva
+      my_role: |-
+        Co‑supervisor and External Jury Member for the Master’s Theses of Two Students (2022-2023)
+  - block: service-entry
+    content:
+      img:
+        filename: service/rare-voices.png
+      who_we_are: |-
+        Rare Voices in Economics Annual Conference, 2nd Edition, University of Geneva
+      my_role: |-
+        Co-organizer (2022)
+  - block: service-entry
+    content:
+      img:
+        filename: service/rare-voices.png
+      who_we_are: |-
+        Rare Voices in Economics
+      my_role: |-
+        Member of Research Cluster and Workshop Team (2021-2024)
+  - block: service-entry
+    content:
+      img:
+        filename: service/university-of-geneva-logo.svg
+      who_we_are: |-
+        Mentoring Program, University of Geneva
+      my_role: |-
+        Mentor (2020-2022)
+  - block: service-entry
+    content:
+      img:
+        filename: service/jadavpur-logo.webp
+      who_we_are: |-
+        Young Economist Students Meet, Jadavpur University
+      my_role: |-
+        Co-convenor (2014)
+  - block: service-entry
+    content:
+      img:
+        filename: service/jadavpur-logo.webp
+      who_we_are: |-
+        Department of Economics, Jadavpur University
+      my_role: |-
+        Student and Class Representative (2011-2014)
 ---
