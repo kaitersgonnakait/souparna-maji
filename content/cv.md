@@ -11,7 +11,7 @@ sections:
   - block: markdown
     content:
       text: |-
-        You can download my full CV [here](/uploads/CV_Souparna_Maji.pdf)
+        You can download my full CV [here](../uploads/CV_Souparna_Maji.pdf)
 
         ### Short CV
         ◾ **CURRENT EMPLOYMENT**  
